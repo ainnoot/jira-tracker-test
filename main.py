@@ -1,5 +1,5 @@
 def main():
-    print("Hello from jira-tracker-test! Ciaos")
+    print("Hello from jira-tracker-test! Ciao")
 
 
 if __name__ == "__main__":
